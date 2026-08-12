@@ -25,4 +25,5 @@
 
 ## 许可证
 
-本项目采用 MIT License 开源。
+本项目采用 [MIT License](LICENSE) 开源。
+
